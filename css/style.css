@@ -2278,8 +2278,9 @@
 }
 /*preloader style*/
 .preloading-screen {
-  position: fixed;
-  height: 100%;
-  width: 100%;
-  background: #ffffff;
-  z-index: 99999;
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background: #ffffff;
+	z-index: 99999;
+}
